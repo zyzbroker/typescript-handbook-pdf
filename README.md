@@ -1,4 +1,4 @@
-# TypeScript-Handbook (2.7)
+# TypeScript-Handbook (3.0)
 
 [![Build Status](https://travis-ci.org/Microsoft/TypeScript-Handbook.svg)](https://travis-ci.org/Microsoft/TypeScript-Handbook)
 
