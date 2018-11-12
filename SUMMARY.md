@@ -32,6 +32,7 @@
     * [JSX](/pages/JSX.md)
     * [Decorators](/pages/Decorators.md)
     * [Mixins](/pages/Mixins.md)
+    * [Utility Types](/pages/Utility Types.md)
     * [Triple-Slash Directives](/pages/Triple-Slash Directives.md)
     * [Type Checking and Javascript Files](/pages/Type Checking and Javascript Files.md)
 
@@ -53,6 +54,7 @@
     * [Nightly Builds](/pages/Nightly Builds.md)
 
 * [Release Notes](/pages/release notes/README.md)
+    * [TypeScript 3.1](/pages/release notes/TypeScript 3.1.md)
     * [TypeScript 3.0](/pages/release notes/TypeScript 3.0.md)
     * [TypeScript 2.9](/pages/release notes/TypeScript 2.9.md)
     * [TypeScript 2.8](/pages/release notes/TypeScript 2.8.md)
