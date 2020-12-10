@@ -1,6 +1,10 @@
 # Release Note
 
 - Overview
+- TypeScript 4.1
+- TypeScript 4.0
+- TypeScript 3.9
+- TypeScript 3.8
 - TypeScript 3.7
 - TypeScript 3.6
 - TypeScript 3.5

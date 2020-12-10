@@ -1,0 +1,15 @@
+## Handbook V2
+
+- [The Basic](/content/handbook-v2/Basics.md)
+- [Everyday Types](/content/handbook-v2/Everyday-Types.md)
+- [Narrowing](/content/handbook-v2/Narrowing.md)
+- [More on Functions](/content/handbook-v2/More-on-Functions.md)
+- [Object Types](/content/handbook-v2/Object-Types.md)
+- [Classes](/content/handbook-v2/Classes.md)
+- [Modules](/content/handbook-v2/Modules.md)
+- [Type Manipulation](/content/handbook-v2/Type-Manipulation/_Creating-Types-from-Types.md)
+  - [Creating Types from Types](/content/handbook-v2/Type-Manipulation/_Creating-Types-from-Types.md)
+  - [Keyof Type Operator](/content/handbook-v2/Type-Manipulation/Keyof-Type-Operator.md)
+  - [Typeof Type Operator](/content/handbook-v2/Type-Manipulation/Typeof-Type-Operator.md)
+  - [Indexed Access Types](/content/handbook-v2/Type-Manipulation/Indexed-Access-Types.md)
+  - [Conditional Types](/content/handbook-v2/Type-Manipulation/Conditional-Types.md)
